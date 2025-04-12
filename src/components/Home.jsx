@@ -16,9 +16,10 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-400 py-4 max-w-md text-lg">
-            I am passionate about building and designing software. I enjoy
-            working on web applications using technologies like React, Tailwind,
-            Next.js, and Node.js.
+           I'm a web developer with a focus on the MERN stack,
+            but still exploring other technologies and frameworks that catch my interest! 
+            if you're looking for a developer to add to your team,
+            I'd love to hear from you!
           </p>
 
           <div className="flex justify-center md:justify-start">
